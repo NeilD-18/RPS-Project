@@ -1,4 +1,4 @@
-# RPS-Project
+# RPS-Project for CSC-106
 Rock-Paper-Scissors Project. Different variants include the game. 
 
 This project has different variants of rock-paper-scissors
